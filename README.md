@@ -1,4 +1,4 @@
-# YouTube Transcript Summarizer
+# Youtube Transcript Summarizer
 In this project, you will develop a Chrome Extension that will send requests to a backend REST API, conduct NLP, and return a condensed transcript of a YouTube video.
 # Project Context
 Throughout the day, a huge amount of video recordings are made and shared online. It has become very challenging to invest time in watching movies that may be longer than anticipated, and sometimes our efforts may be in vain if we are unable to glean useful information from them. We can easily spot key themes in these videos by automatically summarising their transcripts, which saves us time and energy from having to watch the entire thing again.
